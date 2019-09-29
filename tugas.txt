@@ -2,3 +2,5 @@ Belajar dengan benar
 - tugas rpl tugas tugas tugas
 - kolap
 - satu tambah satu sama dengan satu
+
+* ayo bikin branch
